@@ -1,0 +1,11 @@
+{
+  "name": "teste-abastece",
+  "version": "1.0.0",
+  "description": "teste abastece",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edson Marques",
+  "license": "ISC"
+}
